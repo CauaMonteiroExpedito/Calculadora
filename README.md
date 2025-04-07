@@ -1,39 +1,36 @@
-# 🧮 Calculadora com Tema Escuro (Python + Tkinter)
+# 🧮 Calculadora com Tema Escuro
 
-Esta é uma calculadora moderna com **tema escuro**, desenvolvida em Python utilizando a biblioteca **Tkinter**. Inspirada no visual de calculadoras de smartphones, 
-ela inclui funções matemáticas avançadas, como raiz quadrada, potência, pi, fatorial e muito mais.
+Uma calculadora feita com Python e Tkinter, com layout inspirado nos aplicativos de celular e tema escuro moderno. O objetivo do projeto é aplicar conceitos de interface gráfica e lógica matemática em um projeto prático e visual.
 
----
-
-## 📸 Captura de Tela
-
-<img src="![image](https://github.com/user-attachments/assets/77a8dd93-f3e5-4557-9e7c-db2e01083b34)
-">
+![Interface da Calculadora](https://github.com/CauaMonteiroExpedito/Calculadora/blob/main/CalculadoraInterface.jpg?raw=true)
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Interface responsiva e estilizada com tema escuro
-- Operações básicas: soma, subtração, multiplicação, divisão
-- Operações avançadas: potência (^), raiz quadrada, pi, fatorial (!), porcentagem
-- Botões especiais: limpar (AC), parênteses, vírgula, backspace
-- Exibição de resultados com separadores de milhar (ex: 2^35 = 34.359.738.368)
+- Operações básicas: adição, subtração, multiplicação e divisão
+- Potência (^) e raiz quadrada (√)
+- Fatorial (!)
+- Inserção do número π
+- Porcentagem (%)
+- Parênteses
+- Backspace (⌫)
+- Limpar tudo (AC)
+- Interface responsiva com botões que se ajustam à tela
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3**
-- **Tkinter** – Biblioteca gráfica
-- **math** – Funções matemáticas
-- Organização do código em **orientação a objetos (POO)**
+- [Python 3.x](https://www.python.org/)
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) (GUI padrão do Python)
+- Biblioteca `math` para operações matemáticas
 
 ---
 
-## 💻 Como Executar
+## 📦 Como executar o projeto
 
-1. **Clone o repositório:**
+1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/CauaMonteiroExpedito/Calculadora.git
