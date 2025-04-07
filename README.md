@@ -7,7 +7,7 @@ ela inclui funções matemáticas avançadas, como raiz quadrada, potência, pi,
 
 ## 📸 Captura de Tela
 
-<img src="https://user-images.githubusercontent.com/exemplo/captura.png" alt="Interface da Calculadora" width="300">
+<img src="![Image](https://github.com/user-attachments/assets/621cffea-a2d6-4284-b1a9-5386556d71a5)">
 
 ---
 
