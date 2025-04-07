@@ -7,7 +7,8 @@ ela inclui funções matemáticas avançadas, como raiz quadrada, potência, pi,
 
 ## 📸 Captura de Tela
 
-<img src="![Image](https://github.com/user-attachments/assets/621cffea-a2d6-4284-b1a9-5386556d71a5)">
+<img src="![image](https://github.com/user-attachments/assets/77a8dd93-f3e5-4557-9e7c-db2e01083b34)
+">
 
 ---
 
