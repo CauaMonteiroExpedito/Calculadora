@@ -1,4 +1,4 @@
-# 🧮 Calculadora com Tema Escuro
+# 🧮 Calculadora
 
 Uma calculadora feita com Python e Tkinter, com layout inspirado nos aplicativos de celular e tema escuro moderno. O objetivo do projeto é aplicar conceitos de interface gráfica e lógica matemática em um projeto prático e visual.
 
